@@ -15,6 +15,7 @@
 typedef struct {
     int columns;
     int rows;
+    int column; //kodu bozdum bu kodu sil
 } ConsoleSize;
 
 typedef struct MenuItem {
