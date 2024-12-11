@@ -11,12 +11,6 @@
 #endif
 
 // Cross-platform structure definitions
-//update deneme
-typedef struct {
-    int columns;
-    int rows;
-    int column; //kodu bozdum bu kodu sil
-} ConsoleSize;
 
 typedef struct MenuItem {
     char* name;
